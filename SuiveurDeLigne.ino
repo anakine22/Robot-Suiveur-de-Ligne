@@ -1,7 +1,6 @@
 /*TP3
-  CAMPION YANN
-  DETOC Julien
-
+  YANN
+  
   Sujet/titre SAE Suiveur de piste S2
   Robot numéro TP3-5
   Date dernière modification : 23/05/2023
